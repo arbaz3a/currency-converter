@@ -1,7 +1,7 @@
 # Currency Converter 💱
 
 A simple **Currency Converter UI** built with **HTML and CSS** (no JavaScript yet).  
-This project focuses on practicing frontend structure, layout, and styling — featuring a neumorphic design, smooth animations, and a responsive look.
+This project focuses on practicing frontend structure, layout, styling, and featuring a neumorphic design, smooth animations, and a responsive look.
 
 ## Overview
 This converter layout allows users to:
@@ -21,7 +21,7 @@ It’s designed for learning and improving basic web styling techniques like gra
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/currency-converter-ui.git
-   cd currency-converter-ui
+   cd currency converter
 
 2. Open the project folder and launch `index.html` in any web browser.
 
@@ -33,7 +33,6 @@ currency-converter-ui/
 ├── index.html      # Main HTML structure
 ├── style.css       # Styling file
 ├── script.js       # (Optional future JavaScript functionality)
-└── codes.js        # (Optional support file)
 ```
 
 ## Learning Purpose
