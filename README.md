@@ -20,7 +20,7 @@ It’s designed for learning and improving basic web styling techniques like gra
 ## Setup
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/currency-converter-ui.git
+   git clone https://github.com/arbaz3a/currency-converter.git
    cd currency converter
 
 2. Open the project folder and launch `index.html` in any web browser.
