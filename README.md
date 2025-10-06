@@ -1,4 +1,4 @@
-# Currency Converter 💱
+# Currency Converter
 
 A simple **Currency Converter UI** built with **HTML and CSS** (no JavaScript yet).  
 This project focuses on practicing frontend structure, layout, styling, and featuring a neumorphic design, smooth animations, and a responsive look.
@@ -20,15 +20,16 @@ It’s designed for learning and improving basic web styling techniques like gra
 ## Setup
 1. Clone the repository  
    ```bash
-   git clone https://github.com/arbaz3a/currency-converter.git
-   cd currency converter
+   git clone "paste repo link here"
+   cd "folder name here"
+
 
 2. Open the project folder and launch `index.html` in any web browser.
 
 ## Folder Structure
 
 ```
-currency-converter-ui/
+currency-converter/
 │
 ├── index.html      # Main HTML structure
 ├── style.css       # Styling file
